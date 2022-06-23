@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>AIFA Fashion | Style</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css"><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,600;0,700;1,500&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+	<div class="header">		
+	<div class="container">
+		<div class="navbar">
+		 <div class="logo">
+			<img src="images/logo.jpg" width="125px">
+		 </div>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="products.html">Products</a></li>
+				<li><a href="about.html">About</a></li>
+				<li><a href="contact.html">Contact Us</a></li>
+				<li><a href="account.html">Account</a></li>
+			</ul>
+		</nav>
+		<img src="images/cart.png" width="30px" height="30px">
+	</div>
+	<div class="row">
+		<div class="col-2">
+			<h1>The Joy Of Dressing<br>Is An Art!</h1>
+			<p>Fashion is very important. It is life-enhancing and, like everything that<br> gives pleasure, it is worth doing well.</p>
+			<a href="" class="btn">Explore Now &#10140;</a>
+		</div>
+		<div class="col-2">
+			<img src="images/image1.png">
+		</div>
+	</div>
+ </div>
+</div>
+	
+<!--------- featured categories --------->
+	<div class="categories">
+		<div class="row">
+			<div class="col-3">
+				<img src="images/category-1.jpg">
+			</div>
+			<div class="col-3">
+				<img src="images/category-2.png">
+			</div>
+			<div class="col-3">
+				<img src="images/category-3.jpg">
+			</div>
+			<div class="col-3">
+				<img src="images/category-4.jpg">
+			</div>
+		</div>
+	</div>
+</body>
+</html>
